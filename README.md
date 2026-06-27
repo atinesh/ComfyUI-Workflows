@@ -6,7 +6,7 @@ A personal collection of [ComfyUI](https://github.com/comfyanonymous/ComfyUI) wo
 
 | Category | Workflow | Description | Status |
 |---|---|---|---|
-| Text → Image | [Z-Image (Base + Turbo)](./text-to-image/z-image) | Hybrid two-stage Z-Image workflow for photorealistic humans | ✅ Available |
+| Text → Image | [Z-Image (Base + Turbo)](./Text%20To%20Image/Z-Image) | Hybrid two-stage Z-Image workflow for photorealistic humans | ✅ Available |
 | Image → Video | _coming soon_ | — | 🚧 Planned |
 
 ## Repository structure
